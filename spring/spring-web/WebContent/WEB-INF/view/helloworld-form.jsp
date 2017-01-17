@@ -4,11 +4,16 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Input Form</title>
 </head>
 <body>
-<h2>Spring MVC demo</h2>
-<p>New stuff no0 also herew</p>
-<a href="showForm">form</a>
+
+	<form action = "processForm" method="GET">
+		
+		<input type="text" name="studentName" placeholder="what's your name?"/>
+		<input type="submit"/>
+		
+	</form>
+
 </body>
 </html>
