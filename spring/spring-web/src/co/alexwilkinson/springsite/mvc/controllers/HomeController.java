@@ -1,4 +1,4 @@
-package co.alexwilkinson.springsite.mvc;
+package co.alexwilkinson.springsite.mvc.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
